@@ -4,7 +4,7 @@
 
 *Sihan Mao* sihan@uchicago.edu Master in Public Policy Candidate, the University of Chicago Harris School of Public Policy
 
-June 12, 2019
+June 13, 2019
 
 ## Overview
 
@@ -70,7 +70,7 @@ Chicago community boundaries
 
 2. Bivand, Roger. 2018. "r-spatial/spdep/localmoran." Github repository link: https://github.com/r-spatial/spdep/blob/master/R/localmoran.R.
 
-3. Lansley,Guy and James Cheshire. 2016. "An Introduction to Spatial Data Analysis and Visualisation in R." *Consumer Research Data Centre*. 
+3. Lansley, Guy and James Cheshire. 2016. "An Introduction to Spatial Data Analysis and Visualisation in R." *Consumer Research Data Centre*. 
 
 4. GeoDa Center (https://geodacenter.github.io/data-and-lab//airbnb_Chicago-2015/), based on data from Chicago Data Portal. 
 
