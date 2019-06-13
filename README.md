@@ -66,7 +66,7 @@ Chicago community boundaries
 
 **Source**: 
 
-1. Anselin, Luc. 1995. “Local Indicators of Spatial Association — LISA.” *Geographical Analysis* 27: 93–115. (https://data.cityofchicago.org/);
+1. Anselin, Luc. 1995. “Local Indicators of Spatial Association — LISA.” *Geographical Analysis* 27: 93–115. 
 
 2. Bivand, Roger. 2018. "r-spatial/spdep/localmoran." Github repository link: https://github.com/r-spatial/spdep/blob/master/R/localmoran.R.
 
