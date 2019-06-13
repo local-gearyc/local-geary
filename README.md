@@ -64,7 +64,7 @@ The following scope describes the work to develop the local Geary c function in 
 
 Chicago community boundaries
 
-**Source**: 
+**Citation**: 
 
 1. Anselin, Luc. 1995. “Local Indicators of Spatial Association — LISA.” *Geographical Analysis* 27: 93–115. 
 
